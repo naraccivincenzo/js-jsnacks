@@ -10,7 +10,7 @@ const number1 = Number(prompt('Inserisci un numero'));
 userNumber.push(number1);
 
 //intiialize the loop
-for (let i = 1; i < 100; i++) {
+for (let i = 1; i < 1; i++) {
 
     //intiialize the second number
     const number2 = Number(prompt('Inserisci un numero'));
